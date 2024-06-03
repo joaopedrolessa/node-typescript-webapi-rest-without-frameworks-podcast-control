@@ -72,8 +72,6 @@ Here's the README with a hyperlink to the utilized technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express.js](https://expressjs.com/)
 
-If you need anything else, feel free to ask!
-
 ## License
 
 This project is licensed under the MIT License.
